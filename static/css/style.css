@@ -2,20 +2,25 @@ body {
     background-color: #F9FAFC;
 }
 
+.navbar-text {
+    font-family: 'Kalam', cursive;
+    font-size: 16px; 
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+
 .brand {
-    font-family: Lato, sans-serif;
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: #4A4A4F;
+    font-family:'Permanent Marker', cursive;
+    font-size: 2rem;
+    font-weight: 400;
+    color: #445261;
+    padding-left: 1rem;
+    
+    
 }
 
-.red-o {
-    color: #E84610;
-}
 
-.thin {
-    font-weight: 300;
-}
 
 .light-bg {
     background-color: #fff;
@@ -34,6 +39,12 @@ body {
     background-color: transparent;
 }
 
+.nav-link {
+    font-family: 'Kalam', cursive;
+    font-size: 16px;
+    color:  #445261; 
+}
+
 .image-container {
     position: relative;
 }
@@ -47,6 +58,7 @@ body {
 }
 
 .author {
+    font-family: 'Kalam', cursive;
     color: white;
     margin: 4px;
     text-transform: uppercase;
@@ -62,6 +74,7 @@ body {
 }
 
 .masthead-text {
+    font-family: 'Kalam', cursive;
     background-color: #445261;
     color: white;
     position: relative;
@@ -97,11 +110,13 @@ body {
 }
 
 .post-title {
+    font-family: 'Kalam', cursive;
     margin-top: 20%;
     margin-left: 5%;
 }
 
 .post-subtitle {
+    font-family: 'Kalam', cursive;
     margin-left: 5%;
     color: lightgray;
 }
