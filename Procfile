@@ -1,1 +1,1 @@
-web: gunicorn fsfw4.wsgi
+web: gunicorn mycraftyblogg.wsgi
